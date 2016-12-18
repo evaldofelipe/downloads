@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:50:08	67/67	---M--	200	added ('OK')	text/plain	date:Sun,%2018%20Dec%202016%2021:50:17%20GMT	https://about.mattermost.com/robots.txt		(from )
+19:50:08	191255/191255	---M-Z	200	added ('OK')	text/html	date:Sun,%2018%20Dec%202016%2021:50:17%20GMT	https://about.mattermost.com/download/	about.mattermost.com/download/index.html	(from )
